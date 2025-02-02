@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mw2022\weapons\ak47_0\qx1"
+    "$nocull"        "1"
+    "$additive" "1"
+    "$selfillum"   "1"
+    "$selfillumtint" "0.5 0.5 0.5"
+}

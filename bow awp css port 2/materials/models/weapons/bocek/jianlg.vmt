@@ -1,0 +1,25 @@
+//if you don't know what a parameter does, visit:
+//https://developer.valvesoftware.com/wiki/$phong
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\bocek\jianlg"
+
+	"$selfillum" "1"
+	"$additive" "1"
+
+	"$detail" "models\weapons\bocek\lg1"
+	
+	"$detailscale" "1"      
+	"$detailblendfactor" "1" 
+	"$detailblendmode" "8"
+
+	"Proxies"
+    {
+		"TextureScroll"
+        {
+            "texturescrollvar" "$detailtexturetransform"
+            "texturescrollrate" "0.2"
+            "texturescrollangle" "95"
+        }
+	}
+}

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"models\weapons\bocek\yuan"
+	"$bumpmap"			"models\weapons\bocek\mzj_h"
+	"$phongexponenttexture"		"models\weapons\bocek\e1"
+	"$lightwarptexture"			"models\weapons\bocek\lw"
+	 "$phong" "35"
+    "$phongboost" "10"
+    "$phongfresnelranges"		"[4 6 12]"
+    "$phongalbedotint" "1"
+	"$blendtintbybasealpha" "1"
+  
+    "$rimlight" "1"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+
+    
+    "$envmap" "env_cubemap"
+    "$envmaptint" 			"[.02025 .021 .033]"
+	"$normalmapalphaenvmapmask" "1"
+    "$envmapfresnel" "0.35"
+}

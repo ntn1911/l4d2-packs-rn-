@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "vgui\black"
+//	"$nocull" "1"
+	"$alpha" "0"
+	"$nodecal" "1"
+
+	
+	"$EmissiveBlendEnabled" 		"1"
+	"$emissiveblendstrength" 		"1"
+	"$EmissiveBlendBaseTexture" 	"models\weapons\bocek\jb" 	//这是原$basetexture
+	"$emissiveblendtexture" 		"models\weapons\bocek\i8"	//不要动态就指定vgui\white
+	"$emissiveblendflowtexture" 	"models\weapons\bocek\emiss"	//不要动态就指定vgui\white
+	"$emissiveblendtint" 			"[1 1 1]"
+	"$emissiveblendscrollvector" 	"[0.3 0]"	//类似滚动方向
+}
+	

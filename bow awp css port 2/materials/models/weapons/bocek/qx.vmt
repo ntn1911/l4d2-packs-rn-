@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\bocek\qx"
+    "$additive" "1"
+	"$selfillum"	"1" 		
+	"$nocull"		"1"
+}

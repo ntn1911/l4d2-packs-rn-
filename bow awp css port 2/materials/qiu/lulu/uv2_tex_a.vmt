@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "qiu/lulu/UV2_Tex_A"
+	"$lightwarptexture" "qiu/lulu/toon_light"
+	"$bumpmap" "qiu/lulu/UV2_Normal"
+      $phong 1
+	$phongfresnelranges "[0.15 0.57 1]"
+	$phongexponent 5
+	$phongboost 1.25
+	$phongalbedoboost 0
+
+        "$nocull" 1
+	"$nodecal" 1
+}

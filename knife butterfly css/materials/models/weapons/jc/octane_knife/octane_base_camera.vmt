@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+  "$basetexture" "models\weapons\jc\octane_knife\octane_camera_d"
+  "$bumpmap" "models\weapons\jc\octane_knife\octane_camera_n"
+  
+  "$envmap" 					 "env_cubemap"
+  "$envmaptint"	"[ 1.2 1.2 1.2  ]"
+  "$nocull" "1"
+
+
+
+
+
+
+	"$phong" "1"
+	"$phongboost" "4"
+	 $phongexponent  120		
+	"$phongfresnelranges"	"[2 2 1]"
+
+
+
+}

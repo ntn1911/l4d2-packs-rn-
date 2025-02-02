@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$basetexture" "console/background01_widescreen"
+	"$translucent" 1
+	"$gammacolorread" 1
+	"$linearwrite" 1
+	"$alpha" .4
+
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+
+	"Proxies"
+		{
+			"AnimatedTexture"
+			{
+				"animatedtexturevar" "$basetexture"
+				"animatedtextureframenumvar" "$frame"
+				"animatedtextureframerate" 17.8
+			}
+		}
+}

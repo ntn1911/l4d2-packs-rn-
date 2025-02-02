@@ -1,0 +1,82 @@
+"Weapon_AK47.Single"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"CompatibilityAttenuation"	"0.3"
+	"pitch"		    "95,105"
+
+	"wave"			"weapons/ak47/rifle_fire_1.wav"
+}
+"Draw.2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.3"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/movement1.wav"
+}
+"Draw.3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.3"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/movement2.wav"
+}
+"AK47.Deploy"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.3"
+	"CompatibilityAttenuation"	"0.3"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_deploy_1.wav"
+}
+"AK47.ClipOut"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_clip_out_1.wav"
+}
+"AK47.ClipIn"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_clip_in_1.wav"
+}
+"AK47.ClipLocked"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_clip_locked_1.wav"
+}
+"AK47.SlideForward"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_slideforward.wav"
+}
+"AK47.SlideBack"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		".5"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"95,105"
+
+	"wave"			"weapons/ak47/rifle_slideback.wav"
+}
+

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/weapons/jc/octane_knife/octane_heirloom_d"
+    "$bumpmap" "models/weapons/jc/octane_knife/octane_heirloom_n"
+    "$phong" "1"
+    "$phongexponent" "15"
+    "$phongboost" "2.5"
+    "$phongfresnelranges" "[0.1 0.5 1]"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.4 0.4 0.4]"
+    "$selfillum" "1"
+
+    
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedTextureVar $basetexture
+			animatedTextureFrameNumVar $frame
+			animatedTextureFrameRate 0.02
+		}
+	}
+}
